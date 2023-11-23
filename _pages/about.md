@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -13,4 +13,23 @@ Hi, my name is Shi Zhixi (石芷溪) and you can also call me Yvonne. I am now w
 You can find my CV here: [Zhixi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](zhixi:e0950127@u.nus.edu)
+
+
+Interests and Talents
+======
+I have learnt piano since 6 years old and passed level 10 (钢琴十级) during primary school. In addition, I have studied Chinese traditional performing arts （中国曲艺) for five years, including Kuaiban(快板) and Pingshu (评书), and have participated in the recording of some television programs.
+[photo1](../images/photo1.jpg)
+[photo2](../images/photo2.jpg)
+[photo3](../images/photo3.jpg)
+
+My favourite singer and band is Jason Mraz and Mayday (五月天) and I also love singing and dancing.
+
+My family
+======
+I have a big and happy family and I love them very much!
+[photo4](../images/photo4.jpg)
+
+I love my mother and she is my best friend~
+[photo5](../images/photo5.jpg)
+
 

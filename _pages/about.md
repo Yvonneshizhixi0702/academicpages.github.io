@@ -17,9 +17,8 @@ You can find my CV here: [Zhixi's Curriculum Vitae](../assets/Curriculum_Vitae.p
 
 Interests and Talents
 ======
-I have learnt piano since 6 years old and passed level 10 (钢琴十级) during primary school. In addition, I have studied Chinese traditional performing arts （中国曲艺) for five years, including Kuaiban(快板) and Pingshu (评书), and have participated in the recording of some television programs.
+I have learnt piano since 6 years old and passed level 10 (钢琴十级) during primary school. In addition, I have studied Chinese traditional performing arts (中国曲艺) for five years, including Kuaiban(快板) and Pingshu (评书), and have participated in the recording of some television programs.
 ![photo1](../images/photo1.jpg)
-![photo2](../images/photo2.jpg)
 ![photo3](../images/photo3.jpg)
 
 My favourite singer and band is Jason Mraz and Mayday (五月天) and I also love singing and dancing.

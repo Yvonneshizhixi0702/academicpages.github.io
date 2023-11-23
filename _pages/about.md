@@ -26,7 +26,7 @@ My favourite singer and band is Jason Mraz and Mayday (五月天) and I also lov
 My family
 ======
 I have a big and happy family and I love them very much!
-![photo2](../images/photo2.jpg)
+![photo6](../images/photo6.jpg)
 
 
 

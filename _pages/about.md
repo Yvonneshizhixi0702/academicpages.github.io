@@ -26,10 +26,10 @@ My favourite singer and band is Jason Mraz and Mayday (五月天) and I also lov
 Graduation
 ======
 NUS
-![photo7](../images/photo1.jpg)
-![photo9](../images/photo3.jpg)
+![photo7](../images/photo7.jpg)
+![photo9](../images/photo9.jpg)
 ZUEL
-![photo8](../images/photo3.jpg)
+![photo8](../images/photo8.jpg)
 
 My family
 ======

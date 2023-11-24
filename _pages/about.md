@@ -23,6 +23,14 @@ I have learnt piano since 6 years old and passed level 10 (钢琴十级) during 
 
 My favourite singer and band is Jason Mraz and Mayday (五月天) and I also love singing and dancing.
 
+Graduation
+======
+NUS
+![photo7](../images/photo1.jpg)
+![photo9](../images/photo3.jpg)
+ZUEL
+![photo8](../images/photo3.jpg)
+
 My family
 ======
 I have a big and happy family and I love them very much!

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Accounting and Control, INSEAD, 2024-2029
-* B.S. of Economics in Financial Engineering, Zhongnan University of Economics and Law, 2018-2022
+* PhD in Accounting and Control, INSEAD, 2024-2029 (expected)
 * M.S. of Science in Statistics, National University of Singapore, 2022-2024
+* B.S. of Economics in Financial Engineering, Zhongnan University of Economics and Law, 2018-2022
 
 Research experience
 ======

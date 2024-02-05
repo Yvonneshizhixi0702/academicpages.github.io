@@ -12,7 +12,7 @@ Hi, my name is Shi Zhixi (石芷溪) and you can also call me Yvonne. Currently,
 
 You can find my CV here: [Zhixi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-My Email:e0950127@u.nus.edu/yvonneshizhixi@163.com
+My Email:e0950127@u.nus.edu
 
 
 Interests and Talents

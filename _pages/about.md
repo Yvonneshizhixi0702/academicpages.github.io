@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, my name is Shi Zhixi (石芷溪) and you can also call me Yvonne. Currently, I serve as a full-time Research Assistant in the Accountancy department at City University of Hong Kong (CityU). I recently completed my Master's degree in Statistics at the National University of Singapore (NUS) earlier this year. This September, I will commence my PhD journey in Accounting at INSEAD (Asia Campus). My research interests primarily revolve around Environmental, Social, and Governance (ESG) issues and Corporate Disclosures.
 
-You can find my CV here: [Zhixi's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Zhixi's Curriculum Vitae](../assets/CV_Simple.pdf).
 
 My Email:e0950127@u.nus.edu
 
